@@ -1,6 +1,6 @@
 # TosiDrop
 
-TosiDrop is a distribution platform for Cardano and Ergo.
+TosiDrop is a distribution platform for Cardano.
 
 <!--
 
